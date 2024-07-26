@@ -1,8 +1,0 @@
-{
-    "A100": {"bandwidth": 1555, "compute": 19.5, "memory": 40},
-    "H100": {"bandwidth": 3200, "compute": 60, "memory": 80},
-    "L40S": {"bandwidth": 1555, "compute": 30.3, "memory": 48},
-    "T4": {"bandwidth": 320, "compute": 8.1, "memory": 16},
-    "V100": {"bandwidth": 900, "compute": 14, "memory": 16}
-  }
-  
